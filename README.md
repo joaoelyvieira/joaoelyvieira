@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Apaixonado+por+Back-end+%E2%9A%99%EF%B8%8F;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software+%F0%9F%92%BB;Apaixonado+por+Back-end+%E2%9A%99%EF%B8%8F;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80)
 
 </div>
 
@@ -10,9 +10,10 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Ciências da Computação pela FURB** 🎓, dando meus primeiros passos no universo da tecnologia com muita vontade de crescer e construir coisas incríveis.
+Sou estudante de **Ciências da Computação pela FURB** 🎓, apaixonado pelo universo da tecnologia com muita vontade de crescer e construir coisas incríveis.
 
-Tenho um apego especial pelo **Back-end** — adoro entender o que acontece "por baixo dos panos" de um sistema. Atualmente estou expandindo meu repertório e mergulhando em **SQL** e **Angular**. O caminho é longo, mas a animação é maior ainda! 💪
+Tenho um apego especial pelo **Back-end** — adoro entender o que acontece "por baixo dos panos" de um sistema. Possuo conhecimento em **JAVA**,**JavaScript**, **HTML** e **CSS**.  
+Atualmente estou expandindo meu repertório e mergulhando em **SQL** e **Angular**! 💪
 
 - 🏫 Cursando **Ciências da Computação** na FURB
 - ⚙️ Foco em **desenvolvimento Back-end**
@@ -38,19 +39,6 @@ Tenho um apego especial pelo **Back-end** — adoro entender o que acontece "por
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoelyvieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoelyvieira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoelyvieira&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🧠 Minha Filosofia
 
 > *"Todo especialista já foi um iniciante. A diferença está em nunca ter parado."*
@@ -61,5 +49,5 @@ Estou no começo, sim. Mas cada linha de código que escrevo é um passo a mais 
 
 
 <div align="center">
-  <i>Feito com ☕ e muito código por João Ely Vieira</i>
+  <i>Feito por **João Ely Vieira**</i>
 </div>

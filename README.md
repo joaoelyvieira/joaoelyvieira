@@ -11,7 +11,7 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Cursando **Ciências da Computação na FURB**.
-- 🤖​ Tenho conhecimento em **JAVA**,**JavaScript**, **HTML** e **CSS**.  
+- 🤖​ Tenho conhecimento em **JAVA**, **JavaScript**, **HTML** e **CSS**.  
 - 📚 Atualmente estou expandindo meu repertório e mergulhando em **SQL** e **Angular**! 
 - ⚙️ Foco em **desenvolvimento Back-end**
 

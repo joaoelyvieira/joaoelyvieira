@@ -10,20 +10,16 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Ciências da Computação pela FURB** 🎓, apaixonado pelo universo da tecnologia com muita vontade de crescer e construir coisas incríveis.
-
-Tenho um apego especial pelo **Back-end** — adoro entender o que acontece "por baixo dos panos" de um sistema. Possuo conhecimento em **JAVA**,**JavaScript**, **HTML** e **CSS**.  
-Atualmente estou expandindo meu repertório e mergulhando em **SQL** e **Angular**! 💪
-
-- 🏫 Cursando **Ciências da Computação** na FURB
+- 🎓 Cursando **Ciências da Computação na FURB**.
+- 🤖​ Tenho conhecimento em **JAVA**,**JavaScript**, **HTML** e **CSS**.  
+- 📚 Atualmente estou expandindo meu repertório e mergulhando em **SQL** e **Angular**! 
 - ⚙️ Foco em **desenvolvimento Back-end**
-- 📚 Estudando atualmente: **SQL** e **Angular**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Sei usar:
+### Tenho conhecimento:
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -49,5 +45,5 @@ Estou no começo, sim. Mas cada linha de código que escrevo é um passo a mais 
 
 
 <div align="center">
-  <i>Feito por **João Ely Vieira**</i>
+  <i>Feito por João Ely Vieira</i>
 </div>

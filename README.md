@@ -17,8 +17,6 @@ Tenho um apego especial pelo **Back-end** — adoro entender o que acontece "por
 - 🏫 Cursando **Ciências da Computação** na FURB
 - ⚙️ Foco em **desenvolvimento Back-end**
 - 📚 Estudando atualmente: **SQL** e **Angular**
-- 🌱 No início da jornada — e sem pressa pra parar
-- 🎯 Meta: me tornar um desenvolvedor completo e impactar pessoas com código
 
 ---
 
@@ -57,17 +55,10 @@ Tenho um apego especial pelo **Back-end** — adoro entender o que acontece "por
 
 > *"Todo especialista já foi um iniciante. A diferença está em nunca ter parado."*
 
-Estou no começo, sim. Mas cada linha de código que escrevo é um passo a mais em direção a quem quero me tornar. Acredito que consistência bate talento — e eu não pretendo parar tão cedo.
+Estou no começo, sim. Mas cada linha de código que escrevo é um passo a mais em direção a quem quero me tornar. Acredito que consistência bate talento, e eu não pretendo parar tão cedo.
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaoelyvieira/joaoelyvieira/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
 
 <div align="center">
   <i>Feito com ☕ e muito código por João Ely Vieira</i>

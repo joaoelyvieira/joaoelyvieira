@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Cursando **Ciências da Computação na FURB**.
+- 🎓 Cursando **Ciência da Computação na FURB**.
 - 🤖​ Tenho conhecimento em **JAVA**, **JavaScript**, **HTML** e **CSS**.  
 - 📚 Atualmente estou expandindo meu repertório e mergulhando em **SQL** e **Angular**! 
 - ⚙️ Foco em **desenvolvimento Back-end**
@@ -21,16 +21,12 @@
 
 ### Tenho conhecimento:
 <div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </div>
 
 ### Aprendendo agora:
 <div>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,angular" />
 </div>
 
 ---

@@ -1,45 +1,60 @@
-# Olá, eu sou o João Ely Vieira! 👋
+# Olá, eu sou o João Ely Vieira 👋
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software+%F0%9F%92%BB;Foco+Em+Back-end+%E2%9A%99%EF%B8%8F;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80)
-
-</div>
+**Estudante de Ciência da Computação (FURB) | Desenvolvedor Java Back-end | Spring Boot | SQL | MySQL**
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Cursando **Ciência da Computação na FURB**.
-- 🤖​ Tenho conhecimento em **JAVA**, **JavaScript**, **HTML** e **CSS**.  
-- 📚 Atualmente estou expandindo meu repertório e mergulhando em **SQL** e **Angular**! 
-- ⚙️ Foco em **desenvolvimento Back-end**
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Tenho conhecimento:
-<div>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</div>
-
-### Aprendendo agora:
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,angular" />
-</div>
+- 🎓 Cursando Ciência da Computação na FURB (Blumenau-SC)
+- 🏫 Formando do programa Entra21 (turma de Java)
+- ⚙️ Foco em desenvolvimento back-end com Java e Spring Boot
+- 🗄️ Possuo conhecimento sobre bancos de dados relacionais (SQL, MySQL)
 
 ---
 
-## 🧠 Minha Filosofia
+## Tecnologias e ferramentas
 
-> *"Todo especialista já foi um iniciante. A diferença está em nunca ter parado."*
+**Linguagens e frameworks**
 
-Estou no começo, sim. Mas cada linha de código que escrevo é um passo a mais em direção a quem quero me tornar. Acredito que consistência bate talento, e eu não pretendo parar tão cedo.
+![Java](https://skillicons.dev/icons?i=java,spring,js,html,css)
+
+**Banco de dados**
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**Ferramentas**
+
+![Ferramentas](https://skillicons.dev/icons?i=git,github,postman,idea)
+
+**Conceitos:** Programação Orientada a Objetos, lógica de programação, modelagem de banco de dados, tratamento de exceções, testes unitários (JUnit), UML, consumo de APIs REST.
 
 ---
 
+## Projetos em destaque
 
-<div align="center">
-  <i>Feito por João Ely Vieira</i>
-</div>
+### [AthletePulse](https://github.com/Jvcosta18/ProjetoFinal) — Gestão de atletas
+Projeto final do Entra21, apresentado na Mostra de Talentos. Atuei principalmente no back-end e na modelagem do banco de dados.
+`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript`
+
+### [Sonora](https://github.com/joaoelyvieira/Sonora) — Plataforma de streaming de músicas
+Projeto da disciplina de Programação Orientada a Objetos (FURB), desenvolvido em fases: encapsulamento, exceções, testes com JUnit, UML e herança.
+`Java` `JUnit`
+
+### [CineCampus](https://github.com/joaoelyvieira/CineCampus) — Terminal de autoatendimento de cinema
+Projeto final em grupo de Introdução à Programação, com classes orientadas a objetos e organização do fluxo do programa.
+`Java`
+
+### [Cadastro de Clientes](https://github.com/joaoelyvieira/Cadastro-de-Clientes)
+Sistema web com formulário dinâmico, validação de dados e integração com a API ViaCEP.
+`HTML` `CSS` `JavaScript`
+
+### [Entra21](https://github.com/joaoelyvieira/Entra21)
+Registro público do meu aprendizado no programa, aula por aula.
+
+---
+
+## Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaoelyvieira/)
+- ✉️ jotaevieira@gmail.com
